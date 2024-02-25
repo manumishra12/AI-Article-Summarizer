@@ -68,7 +68,7 @@ For inquiries or feedback, please reach out to us at [connectmanumishra@gmail.co
 |------------------|
 
 <div>
-    <h2> <img src = "https://github.com/manumishra12/AI-Article-Summarizer/blob/main/Thumbnail.png" width = 800px height=550px> </h2>
+    <h2> <img src = "https://github.com/manumishra12/AI-Article-Summarizer/blob/main/AI%20Article%20Summarizer.gif" width = 800px height=450px> </h2>
 </div>
 ---
 
