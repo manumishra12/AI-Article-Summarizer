@@ -1,1 +1,1 @@
-# AI-Text-Summarizer
+# AI-Article-Summarizer
