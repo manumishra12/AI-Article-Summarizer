@@ -51,19 +51,24 @@ For inquiries or feedback, please reach out to us at [connectmanumishra@gmail.co
 
 ## Images
 
-| Image Name       | Description              |
-|------------------|--------------------------|
-| ![Image 1](image1.png) | Visualization of data    |
-| ![Image 2](image2.png) | Model architecture       |
+| Application Image        |
+|------------------|
+
+<div>
+    <h2> <img src = "https://github.com/manumishra12/AI-Article-Summarizer/blob/main/Thumbnail.png" width = 800px height=550px> </h2>
+</div>
+
+
 
 ---
 
 ## GIFs
 
-| GIF Name         | Description              |
-|------------------|--------------------------|
-| ![GIF 1](gif1.gif)     | Model training process   |
-| ![GIF 2](gif2.gif)     | Text summarization demo  |
+| Working Demo         | 
+|------------------|
 
+<div>
+    <h2> <img src = "https://github.com/manumishra12/AI-Article-Summarizer/blob/main/Thumbnail.png" width = 800px height=550px> </h2>
+</div>
 ---
 
